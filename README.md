@@ -35,6 +35,12 @@ model to answer questions from retrieved context.
 | [CallMeMaybe](https://github.com/Rubenex29/CallMeMaybe) | Constrained LLM decoding for structured JSON function calls |
 | [Pac-Man](https://github.com/Rubenex29/Pac-Man) | Collaborative Python game with procedural mazes and distinct ghost behaviours |
 
+## Python learning modules
+
+[42 Python Modules](https://github.com/Rubenex29/42-python-modules) brings together
+11 modules from the 42 curriculum, covering Python fundamentals, object-oriented
+programming, error handling, packages, validation and functional programming.
+
 ## What I'm working with
 
 **Languages:** Python, C  
