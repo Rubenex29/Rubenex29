@@ -31,8 +31,8 @@ model to answer questions from retrieved context.
 
 | Project | Focus |
 | --- | --- |
+| [RAG Against the Machine](https://github.com/Rubenex29/RAG) | Local RAG with hybrid BM25 + FAISS search, source traceability and a FastAPI service |
 | [CallMeMaybe](https://github.com/Rubenex29/CallMeMaybe) | Constrained LLM decoding for structured JSON function calls |
-| [Codexion](https://github.com/Rubenex29/Codexion) | C concurrency, pthreads, synchronization and scheduling |
 | [Pac-Man](https://github.com/Rubenex29/Pac-Man) | Collaborative Python game with procedural mazes and distinct ghost behaviours |
 
 ## What I'm working with
